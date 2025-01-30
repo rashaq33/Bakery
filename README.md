@@ -1,5 +1,6 @@
-# 🍰 **BakeMaster: Your Path to Becoming a Baking Pro!** 🍰
+# 🍰 **HomeBakery: Your Path to Becoming a Baking Pro!** 🍰
 ![Uploading Thmbnail.png…]()
+
 
 Welcome to **BakeMaster**, the ultimate app for anyone passionate about learning the art of baking! Whether you're a beginner or aspiring to be a professional, this app connects you with top chefs to help you master baking skills through hands-on classes and workshops. 👩‍🍳👨‍🍳
 
@@ -40,7 +41,7 @@ Welcome to **BakeMaster**, the ultimate app for anyone passionate about learning
 
 - SwiftUI 🖥️
 - MapKit 🗺️
-- CoreData for Profile Management 💾
+
 
 ---
 
